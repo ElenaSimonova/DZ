@@ -1,0 +1,59 @@
+{"user_id": "5fef7a6123", "category": "Товары для животных"}
+{"user_id": "b4925f2ed6", "category": "Досуг"}
+{"user_id": "6bb727b69f", "category": "Досуг"}
+{"user_id": "43789b2c09", "category": "Электроника"}
+{"user_id": "1884f8df79", "category": "Товары для животных"}
+{"user_id": "03872d3882", "category": "Досуг"}
+{"user_id": "5ea20dbf2e", "category": "Электроника"}
+{"user_id": "5e95515ab0", "category": "Досуг"}
+{"user_id": "fb6d7551b0", "category": "Продукты"}
+{"user_id": "fe0fcc7a8b", "category": "Досуг"}
+{"user_id": "7bb21fb5d6", "category": "Электроника"}
+{"user_id": "b3f9efb33e", "category": "Досуг"}
+{"user_id": "0681285176", "category": "Бытовая техника"}
+{"user_id": "bb3df48b90", "category": "Продукты"}
+{"user_id": "fb8c27c53d", "category": "Бытовая техника"}
+{"user_id": "3f78a42316", "category": "Бытовая техника"}
+
+{"user_id": "49958bcf38", "category": "Бытовая техника"}
+{"user_id": "865f09c974", "category": "Досуг"}
+{"user_id": "5db9367a18", "category": "Бытовая техника"}
+{"user_id": "d15327eae3", "category": "Электроника"}
+{"user_id": "5283292eb2", "category": "Бытовая техника"}
+{"user_id": "5304948444", "category": "Продукты"}
+{"user_id": "6d57728fe1", "category": "Строительство и ремонт"}
+{"user_id": "62263f835f", "category": "Досуг"}
+{"user_id": "afda158165", "category": "Досуг"}
+{"user_id": "91fab4e484", "category": "Досуг"}
+{"user_id": "4d8b7d7b9d", "category": "Электроника"}
+{"user_id": "1fd603e8b8", "category": "Бытовая техника"}
+{"user_id": "0824169d3a", "category": "Электроника"}
+{"user_id": "1926391fac", "category": "Досуг"}
+{"user_id": "f389050c13", "category": "Продукты"}
+{"user_id": "d81eaf9a01", "category": "Электроника"}
+{"user_id": "4d45db023e", "category": "Бытовая техника"}
+{"user_id": "6df4a47cae", "category": "Продукты"}
+{"user_id": "e7e35e288d", "category": "Бытовая техника"}
+{"user_id": "0a9cfb61a0", "category": "Бытовая техника"}
+{"user_id": "ba4fa286ba", "category": "Электроника"}
+{"user_id": "5ade58f40b", "category": "Досуг"}
+{"user_id": "cee9ffc298", "category": "Товары для животных"}
+{"user_id": "138024e78e", "category": "Продукты"}
+{"user_id": "377f61d4b3", "category": "Товары для животных"}
+{"user_id": "6ecb33ac3e", "category": "Досуг"}
+{"user_id": "328927ed77", "category": "Бытовая техника"}
+{"user_id": "91457d9d7f", "category": "Товары для животных"}
+{"user_id": "2bb4f5a91a", "category": "Продукты"}
+{"user_id": "3e340b0f12", "category": "Бытовая техника"}
+{"user_id": "fd00899a2e", "category": "Электроника"}
+{"user_id": "38c4113fee", "category": "Товары для животных"}
+{"user_id": "7131a87344", "category": "Электроника"}
+{"user_id": "e81975bcc8", "category": "Электроника"}
+
+{"user_id": "c365a14eea", "category": "Электроника"}
+{"user_id": "3c28d01383", "category": "Досуг"}
+{"user_id": "6948899ab3", "category": "Продукты"}
+{"user_id": "610a548d34", "category": "Электроника"}
+{"user_id": "cb9fd67953", "category": "Бытовая техника"}
+{"user_id": "1", "category": "Бытовая техника"}
+
